@@ -24,4 +24,16 @@ function init() {
   console.log(greetUser("Developer"));
 }
 
+// Version tracking function
+function getVersionInfo() {
+  return {
+    name: config.appName,
+    version: config.version,
+    timestamp: getTimestamp()
+  };
+}
+
+// Add version info to console
+console.log(getVersionInfo());
+
 init();
