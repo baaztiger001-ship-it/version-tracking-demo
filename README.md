@@ -22,3 +22,30 @@ Clone this repo:
 ```bash
 git clone https://github.com/baaztiger001-ship-it/version-tracking-demo.git
 ```
+
+## File Structure
+
+```
+version-tracking-demo/
+├── README.md       - Project documentation
+├── index.html      - Main web page
+└── app.js          - JavaScript application logic
+```
+
+## Version History
+
+This repository demonstrates proper version control practices:
+
+- **Incremental commits**: Each meaningful change is committed separately
+- **Descriptive messages**: Commit messages clearly explain what changed
+- **Branch workflow**: Changes tracked through the main branch
+
+## Contributing
+
+1. Fork the repository
+2. Create a new branch
+3. Make your changes
+4. Submit a pull request
+
+---
+*Last updated: April 2026*
