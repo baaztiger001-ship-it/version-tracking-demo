@@ -1,0 +1,29 @@
+{
+  "name": "version-tracking-demo",
+  "version": "1.0.0",
+  "description": "A demo repo to showcase GitHub file editing and version history tracking",
+  "author": {
+    "username": "baaztiger001-ship-it",
+    "location": "Panchkula, Haryana, IN"
+  },
+  "repository": {
+    "url": "https://github.com/baaztiger001-ship-it/version-tracking-demo",
+    "branch": "main"
+  },
+  "features": [
+    "file-editing",
+    "commit-history",
+    "version-control"
+  ],
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo 'Tests passed'"
+  },
+  "keywords": [
+    "github",
+    "version-tracking",
+    "demo",
+    "git"
+  ],
+  "license": "MIT"
+}
